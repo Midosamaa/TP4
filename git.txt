@@ -1,0 +1,13 @@
+Exercice 1
+----------
+
+2) le repertoire cache ".git", "." et ".." ont ete crees dans mon chemin.
+
+5) mon fichier est maintenant sous le status "changes to be commited" apres que c etait "untracked files"
+
+7) "nothing to commit, working tree clean"
+
+8) la command "git log -p"  affiche l historique des commits avec les differences introduites a chaque commit.
+
+11) je vois mon fichier txt avec le message qu on a entre dans la question 6
+
